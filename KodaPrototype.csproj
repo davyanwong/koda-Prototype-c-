@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <!-- Reads text from invoice PDFs -->
-    <PackageReference Include="UglyToad.PdfPig" Version="0.1.11" />
+    <PackageReference Include="UglyToad.PdfPig" Version="1.7.0-custom-5" />
   </ItemGroup>
 
   <ItemGroup>
